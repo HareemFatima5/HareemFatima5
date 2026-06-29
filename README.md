@@ -80,9 +80,9 @@ hareem = {
 
 | Project | Description | Stack |
 |---|---|---|
-| 🌿 **[Plant Disease Detector](https://huggingface.co)** | ViT-B/16 model for plant disease classification across 52 classes, with XAI heatmaps & severity estimation | PyTorch · Streamlit · HuggingFace |
-| 🎓 **[TALASH](https://github.com)** | AI-powered faculty recruitment pipeline using LLMs + live journal verification APIs | Flask · Gemini · SQLite · OpenAlex |
-| 📊 **[Yelp Analytics Pipeline](https://github.com)** | Medallion architecture data pipeline with ML insights and an interactive dashboard | PySpark · Streamlit · Scikit-Learn |
+| **[Plant Disease Detector](https://huggingface.co)** | ViT-B/16 model for plant disease classification across 52 classes, with XAI heatmaps & severity estimation | PyTorch · Streamlit · HuggingFace |
+| **[TALASH](https://github.com)** | AI-powered faculty recruitment pipeline using LLMs + live journal verification APIs | Flask · Gemini · SQLite · OpenAlex |
+| **[Yelp Analytics Pipeline](https://github.com)** | Medallion architecture data pipeline with ML insights and an interactive dashboard | PySpark · Streamlit · Scikit-Learn |
 
 </div>
 
