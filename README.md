@@ -40,7 +40,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=C084FC&center=true&vCenter=true&width=700&height=60&lines=💡+Data+Science+%7C+ML+%7C+CV+%7C+LLMs;🚀+Building+AI+that+understands+the+world;✨+Turning+data+into+magic" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=C084FC&center=true&vCenter=true&width=700&height=60&lines=Data+Science+%7C+ML+%7C+CV+%7C+LLMs;Building+AI+that+understands+the+world;Turning+data+into+magic" />
 
 <br><br>
 
@@ -86,8 +86,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HareemFatima5&bg_color=0D1117&color=C084FC&line=A78BFA&point=C084FC&area=true&hide_border=true&area_color=C084FC20" width="90%" />
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=✨+Turning+data+into+stories%2C+one+algorithm+at+a+time;🚀+Building+the+future%2C+one+commit+at+a+time;💡+Always+curious%2C+always+learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=Turning+data+into+stories%2C+one+algorithm+at+a+time;Building+the+future%2C+one+commit+at+a+time;Always+curious%2C+always+learning" />
 </div>
 
 ## Tech Stack
@@ -267,14 +266,7 @@
   </tr>
 </table>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=800&color=C084FC&center=true&vCenter=true&width=600&height=25&lines=✨+Building+the+future+with+AI;⚡+One+model+at+a+time;🚀+Always+learning%2C+always+creating" />
-</div>
-  
-  <div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=800&color=C084FC&center=true&vCenter=true&width=500&height=30&lines=✨+Made+with+❤️+and+☕;Thanks+for+stopping+by!;Let's+build+something+amazing" />
-  
-</div>
+
   
 
 <div align="center">
