@@ -266,8 +266,7 @@
   
 
 <div align="center">
-  
-  ### 🌟 Made with ❤️ and ☕
+
   
   <i>Let's connect and build something amazing together!</i>
   
