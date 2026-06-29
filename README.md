@@ -3,7 +3,7 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=45&duration=1&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Hareem+Fatima" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=C084FC&center=true&vCenter=true&width=700&height=60&lines=Data+Science+Student+%40+NUST+SEECS;Machine+Learning+%7C+Computer+Vision+%7C+LLMs;Turning+data+into+insights+one+model+at+a+time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=C084FC&center=true&vCenter=true&width=700&height=60&lines=Data+Science+Student+%40;Machine+Learning+%7C+Computer+Vision+%7C+LLMs;Turning+data+into+insights+one+model+at+a+time" />
 </div>
 
 <br>
@@ -220,13 +220,38 @@
 
 <br>
 
-## Current Focus
+## 🎯 Current Focus
 
 <div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=🔭+Building+production-grade+ML+systems;🌱+Exploring+advanced+computer+vision+architectures;💡+Contributing+to+open-source+AI+projects" />
-  
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="40" height="40" /><br>
+      <b>ML Systems</b><br>
+      <sub>Production-grade pipelines</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Eye.png" width="40" height="40" /><br>
+      <b>Computer Vision</b><br>
+      <sub>Vision Transformers</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="40" height="40" /><br>
+      <b>LLMs</b><br>
+      <sub>Fine-tuning & RAG</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" height="40" /><br>
+      <b>Open Source</b><br>
+      <sub>Community contributions</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
+
+<br>
 
 <div align="center">
   
