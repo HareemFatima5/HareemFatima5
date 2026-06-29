@@ -1,11 +1,11 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hareem%20Fatima&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20LLM%20Builder&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:4A90E2,100:00D4FF&height=200&section=header&text=Hareem%20Fatima&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20LLM%20Builder&descAlignY=60&descSize=20&descColor=E0E0FF" width="100%" />
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=6C63FF&center=true&vCenter=true&width=700&height=55&lines=🌟+Data+Scientist+%40+NUST+SEECS;🧠+Building+LLMs+%26+Computer+Vision+Systems;🔬+Multimodal+AI+Researcher;🚀+Open+to+Opportunities+%26+Collaborations" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=6C63FF&center=true&vCenter=true&width=750&height=55&lines=🌟+Data+Scientist+%7C+ML+Engineer;🧠+Building+LLMs+%26+Computer+Vision+Systems;🔬+AI+%2F+ML+Researcher;📊+Turning+Data+into+Stories;🚀+Open+to+Opportunities+%26+Collaborations" />
 </div>
 
 <br>
@@ -14,10 +14,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/hareem-fatima-b421222a4/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:hareemfatima@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/HareemFatima5">
@@ -33,26 +29,38 @@
 
 <br>
 
-## 🌟 About Me
+## ✨ About Me
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=📍+Islamabad%2C+Pakistan+%7C+Data+Science+Undergraduate;💡+Machine+Learning+%7C+Computer+Vision+%7C+LLMs;🎯+Building+AI+that+actually+understands+the+world" />
+
 <br>
 
+<table border="0">
+<tr>
+<td align="center">
+
+```
+╭─────────────────────────────────────────╮
+│                                         │
+│   🧬  Identity    →  Data Magician      │
+│                                         │
+│   ❤️  Passions    →  CV · LLMs · GenAI  │
+│                                         │
+│   🎯  Mission     →  AI for real impact │
+│                                         │
+│   ✨  Superpower  →  Complex ML, simple │
+│                                         │
+│   ☕  Fuel        →  Coffee + Curiosity │
+│                                         │
+╰─────────────────────────────────────────╯
+```
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="45%">
 
-| | |
-|:---:|:---|
-| 🧬 | **Identity:** Data Magician & ML Explorer |
-| ❤️ | **Passions:** CV · LLMs · MLOps · GenAI |
-| 🎯 | **Mission:** Build AI that understands the world |
-| ✨ | **Superpower:** Making complex ML look simple |
-| 💬 | **Motto:** Data into stories, one algorithm at a time |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HareemFatima5&bg_color=0D1117&color=6C63FF&line=4A90E2&point=6C63FF&area=true&hide_border=true&area_color=6C63FF" width="100%" />
 
 </td>
 </tr>
@@ -72,7 +80,7 @@
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,dart&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,r,js,dart&theme=dark&perline=8" />
 
 <br><br>
 
@@ -80,30 +88,34 @@
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=8" />
 
-<br>
+<br><br>
 
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
-
-<br>
-
-### Tools & Frameworks
-
-<img src="https://skillicons.dev/icons?i=git,docker,flask,react,nextjs,streamlit,figma&theme=dark&perline=8" />
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?style=for-the-badge&logo=google&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 <br><br>
 
-### Data Stack
+### 🛠️ Tools & Frameworks
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,docker,flask,react,streamlit&theme=dark&perline=8" />
 
-<br>
+<br><br>
+
+### 📊 Data & Visualization
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark&perline=8" />
+
+<br><br>
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 </div>
 
@@ -122,9 +134,9 @@
 
 <td align="center" width="33%">
 <br>
-<img src="https://img.shields.io/badge/🌿_Plant_Health_AI-success?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🌿_Plant_Health_AI-2E7D32?style=for-the-badge&logoColor=white" />
 <br><br>
-<b>ViT-B/16 vs ResNet-50</b> disease detection across <b>52 plant classes</b> with XAI heatmaps, severity scoring & live deployment
+<b>ViT-B/16 vs ResNet-50</b> across <b>52 plant classes</b> — 99.61% accuracy, custom Attention Rollout XAI, severity estimation & live Hugging Face deployment
 <br><br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
@@ -138,9 +150,9 @@
 
 <td align="center" width="33%">
 <br>
-<img src="https://img.shields.io/badge/🔍_TALASH_AI-blueviolet?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🔍_TALASH_AI-4A148C?style=for-the-badge&logoColor=white" />
 <br><br>
-<b>LLM-powered faculty recruitment</b> pipeline with 9 evaluation modules, live journal APIs & React UI
+<b>LLM-powered recruitment pipeline</b> — bulk PDF ingestion, 9 scoring modules, live journal APIs, openpyxl export & Flask + React UI
 <br><br>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
@@ -154,13 +166,13 @@
 
 <td align="center" width="33%">
 <br>
-<img src="https://img.shields.io/badge/🎯_Confidence_Coach-orange?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/📊_Student_Performance-1565C0?style=for-the-badge&logoColor=white" />
 <br><br>
-<b>Multimodal AI coaching system</b> using Whisper, DeepFace, MediaPipe & Gemini for confidence analysis [FYP]
+<b>Full ML pipeline</b> on 2,392 records — Stacking Regressor R²=0.97, XGBoost 91.78% dropout accuracy, interactive Power BI dashboard
 <br><br>
-<img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/MediaPipe-0F9D58?style=flat-square&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 <br><br>
 <a href="https://github.com/HareemFatima5">
   <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
@@ -179,7 +191,7 @@
 
 <br>
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -226,5 +238,5 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:4A90E2,100:6C63FF&height=130&section=footer&animation=twinkling" width="100%" />
 </div>
