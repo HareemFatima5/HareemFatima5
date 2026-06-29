@@ -262,5 +262,8 @@
 </div>
   
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=60&lines=✨+Made+with+passion%2C+precision+%26+lots+of+☕;Thanks+for+stopping+by!+Let's+build+something+amazing." />
+  <p style="color: #A78BFA; font-family: 'Space Grotesk', sans-serif;">
+    ✨ Made with passion, precision, and lots of ☕<br>
+    <span style="color: #718096; font-size: 14px;">Thanks for stopping by! Let's build something amazing together.</span>
+  </p>
 </div>
