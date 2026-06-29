@@ -1,129 +1,159 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Hareem%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20ML%20%7C%20Computer%20Vision%20%7C%20LLMs&descAlignY=58&descSize=18&descColor=a78bfa" />
-
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=45&duration=1&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=600&height=70&lines=✨+Hareem+Fatima+✨" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=800&color=C084FC&center=true&vCenter=true&width=700&height=60&lines=✦+Data+Alchemist+✦;✦+ML+Enthusiast+✦;✦+CV+Explorer+✦;✦+LLM+Builder+✦" />
+  
+  <br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Crystal%20Ball.png" width="35" height="35" />
+  
 </div>
 
-<br/>
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Final+year+Data+Science+%40+NUST+SEECS;Exploring+Computer+Vision+%26+LLMs;Learning+something+new+every+day+%F0%9F%8C�)](https://git.io/typing-svg)
-
+  
+  <a href="https://www.linkedin.com/in/hareem-fatima-b421222a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=C084FC&labelColor=0A0A0A&color=0A0A0A" />
+  </a>
+  <a href="https://github.com/HareemFatima5">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=C084FC&labelColor=0A0A0A&color=0A0A0A" />
+  </a>
+  
 </div>
 
----
+<br>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=✨&fontSize=30" />
 
-## About Me
+<br>
+
+## 🌟 About Me
+
+<div align="center">
 
 ```python
-hareem = {
-    "university"  : "NUST SEECS — BS Data Science ('27)",
-    "interests"   : ["Computer Vision", "LLMs", "Data Engineering", "MLOps"],
-    "currently"   : "Working on LLM projects & building my portfolio",
-    "ask_me_about": "Deep Learning, Python, or anything data 😊"
-}
+class Hareem:
+    def __init__(self):
+        self.identity = "Data Magician ✨"
+        self.passions = ["🤖 Computer Vision", "🧠 LLMs", "📊 Data Engineering", "☁️ MLOps"]
+        self.current_mission = "Building AI that understands the world 🌍"
+        self.motto = "Turning data into stories, one algorithm at a time 📖"
+        self.superpower = "Making complex ML look simple 😎"
 ```
 
-<br/>
+</div>
 
----
+<br>
 
-## Tech Stack
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/SQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/Java-0f0c29?style=for-the-badge&logo=openjdk&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/Dart-0f0c29?style=for-the-badge&logo=dart&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=a78bfa" />
-</p>
-
-### AI / ML
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-0f0c29?style=for-the-badge&logo=pytorch&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/TensorFlow-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-0f0c29?style=for-the-badge&logo=scikitlearn&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/HuggingFace-0f0c29?style=for-the-badge&logo=huggingface&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/OpenCV-0f0c29?style=for-the-badge&logo=opencv&logoColor=a78bfa" />
-</p>
-
-### Tools & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-0f0c29?style=for-the-badge&logo=streamlit&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/Flask-0f0c29?style=for-the-badge&logo=flask&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/Next.js-0f0c29?style=for-the-badge&logo=nextdotjs&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/Flutter-0f0c29?style=for-the-badge&logo=flutter&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/Linux-0f0c29?style=for-the-badge&logo=linux&logoColor=a78bfa" />
-</p>
-
-### Data
-<p>
-  <img src="https://img.shields.io/badge/Pandas-0f0c29?style=for-the-badge&logo=pandas&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/NumPy-0f0c29?style=for-the-badge&logo=numpy&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/SQLite-0f0c29?style=for-the-badge&logo=sqlite&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/HuggingFace%20Spaces-0f0c29?style=for-the-badge&logo=huggingface&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/IBM%20Certified-0f0c29?style=for-the-badge&logo=ibm&logoColor=a78bfa" />
-</p>
-
-<br/>
-
----
-
-## Featured Projects
+## 🚀 Tech Arsenal
 
 <div align="center">
 
-| Project | Description | Stack |
-|---|---|---|
-| **[Plant Disease Detector](https://huggingface.co)** | ViT-B/16 model for plant disease classification across 52 classes, with XAI heatmaps & severity estimation | PyTorch · Streamlit · HuggingFace |
-| **[TALASH](https://github.com)** | AI-powered faculty recruitment pipeline using LLMs + live journal verification APIs | Flask · Gemini · SQLite · OpenAlex |
-| **[Yelp Analytics Pipeline](https://github.com)** | Medallion architecture data pipeline with ML insights and an interactive dashboard | PySpark · Streamlit · Scikit-Learn |
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,dart,cpp" />
+
+### 🧠 AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+<img src="https://img.shields.io/badge/HuggingFace-0A0A0A?style=for-the-badge&logo=huggingface&logoColor=C084FC&labelColor=0A0A0A&color=0A0A0A" />
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,linux,docker,flask,nextjs" />
+<img src="https://img.shields.io/badge/Streamlit-0A0A0A?style=for-the-badge&logo=streamlit&logoColor=C084FC&labelColor=0A0A0A&color=0A0A0A" />
+
+### 📊 Data
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=C084FC&labelColor=0A0A0A&color=0A0A0A" />
+<img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=C084FC&labelColor=0A0A0A&color=0A0A0A" />
 
 </div>
 
-<br/>
+<br>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
+</div>
 
-## GitHub Stats
+<br>
+
+## ✨ Project Highlights
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" />
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="50" height="50" /><br>
+      <b>🌿 Plant Health AI</b><br>
+      <sub>ViT-B/16 model detecting diseases in 52 plant classes with explainable AI heatmaps & severity scoring</sub><br>
+      <sub><i>PyTorch · Streamlit · HuggingFace</i></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" width="50" height="50" /><br>
+      <b>🔍 TALASH AI</b><br>
+      <sub>Smart faculty recruitment using LLMs + live journal verification APIs for academic hiring</sub><br>
+      <sub><i>Flask · Gemini · SQLite · OpenAlex</i></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="50" height="50" /><br>
+      <b>📈 Yelp Insights</b><br>
+      <sub>End-to-end analytics pipeline with Medallion architecture & interactive ML dashboard</sub><br>
+      <sub><i>PySpark · Streamlit · Scikit-Learn</i></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
+<br>
+
+## 📊 GitHub Stats
+
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0f0c29&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" />
-
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=C084FC&icon_color=A78BFA&text_color=FFFFFF&ring_color=C084FC&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=C084FC&text_color=FFFFFF" width="49%" />
+  
 </div>
 
-<br/>
-
----
-
-## Let's Connect
+<br>
 
 <div align="center">
-
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/hareem-fatima-b421222a4/)">
-  <img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa" />
-</a>
-
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
-<br/>
+<br>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=800&color=C084FC&center=true&vCenter=true&width=600&lines=✨+Building+the+future%2C+one+commit+at+a+time+✨;☕+Powered+by+coffee+and+caffeine+☕;🚀+Dreaming+in+Python+and+PyTorch+🚀;💡+Always+learning%2C+always+creating+💡" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
+<br>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=C084FC&label=✨+Visitors+✨" />
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
+
+<div align="center">
+  
+  ### 🌟 Made with ✨ and lots of ☕
+  
+  *Thanks for stopping by! Let's build something amazing together.*
+  
 </div>
