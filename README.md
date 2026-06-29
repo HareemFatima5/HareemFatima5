@@ -221,44 +221,38 @@
 <br>
 
 ## 🎯 Current Focus
-
 <div align="center">
-
 <br>
-
 <table>
   <tr>
     <td align="center" width="25%">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="40" height="40" /><br>
-      <b style="color:#C084FC;">ML Systems</b><br>
-      <sub style="color:#A78BFA;">Production pipelines</sub><br>
-      <img src="https://img.shields.io/badge/Active-C084FC?style=flat-square&labelColor=0A0A0A&color=0A0A0A" />
+      <b>ML Systems</b><br>
+      <sub>Production pipelines</sub><br>
+      <code>Active</code>
     </td>
     <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Eye.png" width="40" height="40" /><br>
-      <b style="color:#C084FC;">Computer Vision</b><br>
-      <sub style="color:#A78BFA;">Vision Transformers</sub><br>
-      <img src="https://img.shields.io/badge/Exploring-C084FC?style=flat-square&labelColor=0A0A0A&color=0A0A0A" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="40" height="40" /><br>
+      <b>Computer Vision</b><br>
+      <sub>Vision Transformers</sub><br>
+      <code>Exploring</code>
     </td>
     <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="40" height="40" /><br>
-      <b style="color:#C084FC;">LLMs</b><br>
-      <sub style="color:#A78BFA;">Fine-tuning & RAG</sub><br>
-      <img src="https://img.shields.io/badge/Learning-C084FC?style=flat-square&labelColor=0A0A0A&color=0A0A0A" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="40" height="40" /><br>
+      <b>LLMs</b><br>
+      <sub>Fine-tuning & RAG</sub><br>
+      <code>Learning</code>
     </td>
     <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" height="40" /><br>
-      <b style="color:#C084FC;">Open Source</b><br>
-      <sub style="color:#A78BFA;">Community contributions</sub><br>
-      <img src="https://img.shields.io/badge/Contributing-C084FC?style=flat-square&labelColor=0A0A0A&color=0A0A0A" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="40" height="40" /><br>
+      <b>Open Source</b><br>
+      <sub>Community contributions</sub><br>
+      <code>Contributing</code>
     </td>
   </tr>
 </table>
-
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=800&color=C084FC&center=true&vCenter=true&width=700&height=30&lines=🚀+Building+intelligent+systems;✨+One+model+at+a+time;⚡+Always+learning%2C+always+creating" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=800&color=C084FC&center=true&vCenter=true&width=600&height=25&lines=✨+Building+the+future+with+AI;⚡+One+model+at+a+time;🚀+Always+learning%2C+always+creating" />
 </div>
   
   <div align="center">
@@ -267,10 +261,6 @@
   
 </div>
   
-  <i>Let's connect and build something amazing together!</i>
-  
-  <br><br>
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
-  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=60&lines=✨+Made+with+passion%2C+precision+%26+lots+of+☕;Thanks+for+stopping+by!+Let's+build+something+amazing." />
 </div>
