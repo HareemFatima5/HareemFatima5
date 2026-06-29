@@ -224,36 +224,96 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="40" height="40" /><br>
-      <b>ML Systems</b><br>
-      <sub>Production-grade pipelines</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Eye.png" width="40" height="40" /><br>
-      <b>Computer Vision</b><br>
-      <sub>Vision Transformers</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="40" height="40" /><br>
-      <b>LLMs</b><br>
-      <sub>Fine-tuning & RAG</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" height="40" /><br>
-      <b>Open Source</b><br>
-      <sub>Community contributions</sub>
-    </td>
-  </tr>
-</table>
+<br>
+
+<!-- Animated cards with floating effect -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+<div style="background: linear-gradient(145deg, #1a1a2e, #0A0A0A); border-radius: 15px; padding: 20px 30px; border: 1px solid #C084FC20; width: 200px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="50" height="50" />
+  <br><br>
+  <b style="color: #C084FC;">ML Systems</b>
+  <br>
+  <sub style="color: #A78BFA;">Production-grade pipelines</sub>
+  <br><br>
+  <img src="https://img.shields.io/badge/-Active-C084FC?style=flat-square&labelColor=0A0A0A" />
+</div>
+
+<div style="background: linear-gradient(145deg, #1a1a2e, #0A0A0A); border-radius: 15px; padding: 20px 30px; border: 1px solid #C084FC20; width: 200px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Eye.png" width="50" height="50" />
+  <br><br>
+  <b style="color: #C084FC;">Computer Vision</b>
+  <br>
+  <sub style="color: #A78BFA;">Vision Transformers</sub>
+  <br><br>
+  <img src="https://img.shields.io/badge/-Exploring-C084FC?style=flat-square&labelColor=0A0A0A" />
+</div>
+
+<div style="background: linear-gradient(145deg, #1a1a2e, #0A0A0A); border-radius: 15px; padding: 20px 30px; border: 1px solid #C084FC20; width: 200px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="50" height="50" />
+  <br><br>
+  <b style="color: #C084FC;">LLMs</b>
+  <br>
+  <sub style="color: #A78BFA;">Fine-tuning & RAG</sub>
+  <br><br>
+  <img src="https://img.shields.io/badge/-Learning-C084FC?style=flat-square&labelColor=0A0A0A" />
+</div>
+
+<div style="background: linear-gradient(145deg, #1a1a2e, #0A0A0A); border-radius: 15px; padding: 20px 30px; border: 1px solid #C084FC20; width: 200px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="50" height="50" />
+  <br><br>
+  <b style="color: #C084FC;">Open Source</b>
+  <br>
+  <sub style="color: #A78BFA;">Community contributions</sub>
+  <br><br>
+  <img src="https://img.shields.io/badge/-Contributing-C084FC?style=flat-square&labelColor=0A0A0A" />
+</div>
 
 </div>
 
 <br>
 
-<div align="center">
+<!-- Animated progress indicators -->
+<div style="width: 80%; margin: 20px auto; background: #1a1a2e; padding: 20px; border-radius: 15px;">
+  
+  <div style="text-align: left; margin: 10px 0;">
+    <span style="color: #C084FC;">🤖 ML Systems</span>
+    <div style="background: #2a2a3e; height: 8px; border-radius: 10px; margin-top: 5px;">
+      <div style="background: linear-gradient(90deg, #C084FC, #A78BFA); width: 80%; height: 8px; border-radius: 10px; animation: slideIn 2s;"></div>
+    </div>
+  </div>
+  
+  <div style="text-align: left; margin: 10px 0;">
+    <span style="color: #C084FC;">👁️ Computer Vision</span>
+    <div style="background: #2a2a3e; height: 8px; border-radius: 10px; margin-top: 5px;">
+      <div style="background: linear-gradient(90deg, #C084FC, #A78BFA); width: 60%; height: 8px; border-radius: 10px;"></div>
+    </div>
+  </div>
+  
+  <div style="text-align: left; margin: 10px 0;">
+    <span style="color: #C084FC;">🧠 LLMs</span>
+    <div style="background: #2a2a3e; height: 8px; border-radius: 10px; margin-top: 5px;">
+      <div style="background: linear-gradient(90deg, #C084FC, #A78BFA); width: 85%; height: 8px; border-radius: 10px;"></div>
+    </div>
+  </div>
+  
+  <div style="text-align: left; margin: 10px 0;">
+    <span style="color: #C084FC;">💻 Open Source</span>
+    <div style="background: #2a2a3e; height: 8px; border-radius: 10px; margin-top: 5px;">
+      <div style="background: linear-gradient(90deg, #C084FC, #A78BFA); width: 65%; height: 8px; border-radius: 10px;"></div>
+    </div>
+  </div>
+  
+</div>
+
+<br>
+
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&pause=1000&color=C084FC&center=true&vCenter=true&width=700&height=45&lines=🚀+Building+production-grade+AI;⚡+One+model+at+a+time;💡+Learning+every+single+day;🌟+Innovating+through+code" />
+
+</div>
+
+<br>
   
   ### 🌟 Made with ❤️ and ☕
   
