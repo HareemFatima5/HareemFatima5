@@ -38,11 +38,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28" height="28" />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" height="28" />
 
-<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=C084FC&center=true&vCenter=true&width=700&height=60&lines=Data+Science+%7C+ML+%7C+CV+%7C+LLMs;Building+AI+that+understands+the+world;Turning+data+into+magic" />
-
-<br><br>
 
 <table>
 <tr>
