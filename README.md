@@ -219,61 +219,47 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br>
+
 ## 🎯 Current Focus
 
 <div align="center">
 
 <br>
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; max-width: 800px; margin: 0 auto;">
-
-<div style="background: linear-gradient(135deg, #1a1a2e, #0A0A0A); border-radius: 12px; padding: 20px 15px; border: 1px solid #C084FC30; transition: all 0.3s ease;">
-  <div style="font-size: 32px;">🤖</div>
-  <div style="color: #C084FC; font-weight: 600; margin: 8px 0 4px;">ML Systems</div>
-  <div style="color: #A78BFA; font-size: 13px; opacity: 0.8;">Production pipelines</div>
-  <div style="margin-top: 8px;">
-    <span style="background: #C084FC20; color: #C084FC; padding: 2px 12px; border-radius: 20px; font-size: 11px; border: 1px solid #C084FC40;">● Active</span>
-  </div>
-</div>
-
-<div style="background: linear-gradient(135deg, #1a1a2e, #0A0A0A); border-radius: 12px; padding: 20px 15px; border: 1px solid #C084FC30; transition: all 0.3s ease;">
-  <div style="font-size: 32px;">👁️</div>
-  <div style="color: #C084FC; font-weight: 600; margin: 8px 0 4px;">Computer Vision</div>
-  <div style="color: #A78BFA; font-size: 13px; opacity: 0.8;">Vision Transformers</div>
-  <div style="margin-top: 8px;">
-    <span style="background: #C084FC20; color: #C084FC; padding: 2px 12px; border-radius: 20px; font-size: 11px; border: 1px solid #C084FC40;">● Exploring</span>
-  </div>
-</div>
-
-<div style="background: linear-gradient(135deg, #1a1a2e, #0A0A0A); border-radius: 12px; padding: 20px 15px; border: 1px solid #C084FC30; transition: all 0.3s ease;">
-  <div style="font-size: 32px;">🧠</div>
-  <div style="color: #C084FC; font-weight: 600; margin: 8px 0 4px;">LLMs</div>
-  <div style="color: #A78BFA; font-size: 13px; opacity: 0.8;">Fine-tuning & RAG</div>
-  <div style="margin-top: 8px;">
-    <span style="background: #C084FC20; color: #C084FC; padding: 2px 12px; border-radius: 20px; font-size: 11px; border: 1px solid #C084FC40;">● Learning</span>
-  </div>
-</div>
-
-<div style="background: linear-gradient(135deg, #1a1a2e, #0A0A0A); border-radius: 12px; padding: 20px 15px; border: 1px solid #C084FC30; transition: all 0.3s ease;">
-  <div style="font-size: 32px;">💻</div>
-  <div style="color: #C084FC; font-weight: 600; margin: 8px 0 4px;">Open Source</div>
-  <div style="color: #A78BFA; font-size: 13px; opacity: 0.8;">Community contributions</div>
-  <div style="margin-top: 8px;">
-    <span style="background: #C084FC20; color: #C084FC; padding: 2px 12px; border-radius: 20px; font-size: 11px; border: 1px solid #C084FC40;">● Contributing</span>
-  </div>
-</div>
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="35" height="35" /><br>
+      <b style="color:#C084FC;">ML Systems</b><br>
+      <sub style="color:#A78BFA;">Production pipelines</sub><br>
+      <img src="https://img.shields.io/badge/-Active-C084FC?style=flat-square&labelColor=0A0A0A" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eyes.png" width="35" height="35" /><br>
+      <b style="color:#C084FC;">Computer Vision</b><br>
+      <sub style="color:#A78BFA;">Vision Transformers</sub><br>
+      <img src="https://img.shields.io/badge/-Exploring-C084FC?style=flat-square&labelColor=0A0A0A" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" width="35" height="35" /><br>
+      <b style="color:#C084FC;">LLMs</b><br>
+      <sub style="color:#A78BFA;">Fine-tuning & RAG</sub><br>
+      <img src="https://img.shields.io/badge/-Learning-C084FC?style=flat-square&labelColor=0A0A0A" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Glowing%20Star.png" width="35" height="35" /><br>
+      <b style="color:#C084FC;">Open Source</b><br>
+      <sub style="color:#A78BFA;">Community contributions</sub><br>
+      <img src="https://img.shields.io/badge/-Contributing-C084FC?style=flat-square&labelColor=0A0A0A" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=800&color=C084FC&center=true&vCenter=true&width=700&height=30&lines=✨+Building+the+future+with+AI;⚡+One+model+at+a+time;🚀+Learning+every+single+day" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=C084FC&center=true&vCenter=true&width=700&height=30&lines=🚀+Building+intelligent+systems+every+day;✨+One+model+at+a+time;⚡+Always+learning%2C+always+creating" />
 
 </div>
-
-</div>
-  
-<div align="center">
   
   ### 🌟 Made with ❤️ and ☕
   
