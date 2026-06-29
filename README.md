@@ -1,11 +1,9 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:4A90E2,100:00D4FF&height=200&section=header&text=Hareem%20Fatima&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20LLM%20Builder&descAlignY=60&descSize=20&descColor=E0E0FF" width="100%" />
-</div>
-
-<!-- TYPING ANIMATION -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=6C63FF&center=true&vCenter=true&width=750&height=55&lines=🌟+Data+Scientist+%7C+ML+Engineer;🧠+Building+LLMs+%26+Computer+Vision+Systems;🔬+AI+%2F+ML+Researcher;📊+Turning+Data+into+Stories;🚀+Open+to+Opportunities+%26+Collaborations" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=45&duration=1&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Hareem+Fatima" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=C084FC&center=true&vCenter=true&width=700&height=60&lines=Data+Science+Student+%40+NUST+SEECS;Machine+Learning+%7C+Computer+Vision+%7C+LLMs;Turning+data+into+insights+one+model+at+a+time" />
 </div>
 
 <br>
