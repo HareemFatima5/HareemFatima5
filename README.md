@@ -223,16 +223,57 @@
 
 <div align="center">
 
-| 🤖 ML Systems | 👁️ CV | 🧠 LLMs | 💻 Open Source |
-|:---:|:---:|:---:|:---:|
-| Production pipelines | Vision Transformers | Fine-tuning & RAG | Community contributions |
-| `Active` | `Exploring` | `Learning` | `Contributing` |
+<br>
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; max-width: 800px; margin: 0 auto;">
+
+<div style="background: linear-gradient(135deg, #1a1a2e, #0A0A0A); border-radius: 12px; padding: 20px 15px; border: 1px solid #C084FC30; transition: all 0.3s ease;">
+  <div style="font-size: 32px;">🤖</div>
+  <div style="color: #C084FC; font-weight: 600; margin: 8px 0 4px;">ML Systems</div>
+  <div style="color: #A78BFA; font-size: 13px; opacity: 0.8;">Production pipelines</div>
+  <div style="margin-top: 8px;">
+    <span style="background: #C084FC20; color: #C084FC; padding: 2px 12px; border-radius: 20px; font-size: 11px; border: 1px solid #C084FC40;">● Active</span>
+  </div>
+</div>
+
+<div style="background: linear-gradient(135deg, #1a1a2e, #0A0A0A); border-radius: 12px; padding: 20px 15px; border: 1px solid #C084FC30; transition: all 0.3s ease;">
+  <div style="font-size: 32px;">👁️</div>
+  <div style="color: #C084FC; font-weight: 600; margin: 8px 0 4px;">Computer Vision</div>
+  <div style="color: #A78BFA; font-size: 13px; opacity: 0.8;">Vision Transformers</div>
+  <div style="margin-top: 8px;">
+    <span style="background: #C084FC20; color: #C084FC; padding: 2px 12px; border-radius: 20px; font-size: 11px; border: 1px solid #C084FC40;">● Exploring</span>
+  </div>
+</div>
+
+<div style="background: linear-gradient(135deg, #1a1a2e, #0A0A0A); border-radius: 12px; padding: 20px 15px; border: 1px solid #C084FC30; transition: all 0.3s ease;">
+  <div style="font-size: 32px;">🧠</div>
+  <div style="color: #C084FC; font-weight: 600; margin: 8px 0 4px;">LLMs</div>
+  <div style="color: #A78BFA; font-size: 13px; opacity: 0.8;">Fine-tuning & RAG</div>
+  <div style="margin-top: 8px;">
+    <span style="background: #C084FC20; color: #C084FC; padding: 2px 12px; border-radius: 20px; font-size: 11px; border: 1px solid #C084FC40;">● Learning</span>
+  </div>
+</div>
+
+<div style="background: linear-gradient(135deg, #1a1a2e, #0A0A0A); border-radius: 12px; padding: 20px 15px; border: 1px solid #C084FC30; transition: all 0.3s ease;">
+  <div style="font-size: 32px;">💻</div>
+  <div style="color: #C084FC; font-weight: 600; margin: 8px 0 4px;">Open Source</div>
+  <div style="color: #A78BFA; font-size: 13px; opacity: 0.8;">Community contributions</div>
+  <div style="margin-top: 8px;">
+    <span style="background: #C084FC20; color: #C084FC; padding: 2px 12px; border-radius: 20px; font-size: 11px; border: 1px solid #C084FC40;">● Contributing</span>
+  </div>
+</div>
+
+</div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=800&color=C084FC&center=true&vCenter=true&width=600&lines=⚡+Building+intelligent+systems;🔬+Researching+cutting-edge+AI;🚀+Deploying+models+to+production;💡+Always+curious%2C+always+learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=800&color=C084FC&center=true&vCenter=true&width=700&height=30&lines=✨+Building+the+future+with+AI;⚡+One+model+at+a+time;🚀+Learning+every+single+day" />
 
 </div>
+
+</div>
+  
+<div align="center">
   
   ### 🌟 Made with ❤️ and ☕
   
