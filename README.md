@@ -229,39 +229,43 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="35" height="35" /><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="40" height="40" /><br>
       <b style="color:#C084FC;">ML Systems</b><br>
       <sub style="color:#A78BFA;">Production pipelines</sub><br>
-      <img src="https://img.shields.io/badge/-Active-C084FC?style=flat-square&labelColor=0A0A0A" />
+      <img src="https://img.shields.io/badge/Active-C084FC?style=flat-square&labelColor=0A0A0A&color=0A0A0A" />
     </td>
     <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eyes.png" width="35" height="35" /><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Eye.png" width="40" height="40" /><br>
       <b style="color:#C084FC;">Computer Vision</b><br>
       <sub style="color:#A78BFA;">Vision Transformers</sub><br>
-      <img src="https://img.shields.io/badge/-Exploring-C084FC?style=flat-square&labelColor=0A0A0A" />
+      <img src="https://img.shields.io/badge/Exploring-C084FC?style=flat-square&labelColor=0A0A0A&color=0A0A0A" />
     </td>
     <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" width="35" height="35" /><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="40" height="40" /><br>
       <b style="color:#C084FC;">LLMs</b><br>
       <sub style="color:#A78BFA;">Fine-tuning & RAG</sub><br>
-      <img src="https://img.shields.io/badge/-Learning-C084FC?style=flat-square&labelColor=0A0A0A" />
+      <img src="https://img.shields.io/badge/Learning-C084FC?style=flat-square&labelColor=0A0A0A&color=0A0A0A" />
     </td>
     <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Glowing%20Star.png" width="35" height="35" /><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" height="40" /><br>
       <b style="color:#C084FC;">Open Source</b><br>
       <sub style="color:#A78BFA;">Community contributions</sub><br>
-      <img src="https://img.shields.io/badge/-Contributing-C084FC?style=flat-square&labelColor=0A0A0A" />
+      <img src="https://img.shields.io/badge/Contributing-C084FC?style=flat-square&labelColor=0A0A0A&color=0A0A0A" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=C084FC&center=true&vCenter=true&width=700&height=30&lines=🚀+Building+intelligent+systems+every+day;✨+One+model+at+a+time;⚡+Always+learning%2C+always+creating" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=800&color=C084FC&center=true&vCenter=true&width=700&height=30&lines=🚀+Building+intelligent+systems;✨+One+model+at+a+time;⚡+Always+learning%2C+always+creating" />
 
 </div>
   
-  ### 🌟 Made with ❤️ and ☕
+  <div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=800&color=C084FC&center=true&vCenter=true&width=500&height=30&lines=✨+Made+with+❤️+and+☕;Thanks+for+stopping+by!;Let's+build+something+amazing" />
+  
+</div>
   
   <i>Let's connect and build something amazing together!</i>
   
