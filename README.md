@@ -3,7 +3,7 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=45&duration=1&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Hareem+Fatima" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=C084FC&center=true&vCenter=true&width=700&height=60&lines=Data+Science+Student+%40;Machine+Learning+%7C+Computer+Vision+%7C+LLMs;Turning+data+into+insights+one+model+at+a+time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=C084FC&center=true&vCenter=true&width=700&height=60&lines=Data+Science+Student;Machine+Learning+%7C+Computer+Vision+%7C+LLMs;Turning+data+into+insights+one+model+at+a+time" />
 </div>
 
 <br>
@@ -86,7 +86,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HareemFatima5&bg_color=0D1117&color=C084FC&line=A78BFA&point=C084FC&area=true&hide_border=true&area_color=C084FC20" width="90%" />
 
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=Turning+data+into+stories%2C+one+algorithm+at+a+time;Building+the+future%2C+one+commit+at+a+time;Always+curious%2C+always+learning" />
+
 </div>
 
 ## Tech Stack
