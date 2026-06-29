@@ -220,21 +220,22 @@
 
 <br>
 
-## 💭 Inspiration
+## Current Focus
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=✨+Building+the+future%2C+one+commit+at+a+time;☕+Powered+by+coffee+and+curiosity;🚀+Dreaming+in+Python+and+PyTorch;💡+Always+learning%2C+always+creating;🎯+Turning+data+into+impact" />
-
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=🔭+Building+production-grade+ML+systems;🌱+Exploring+advanced+computer+vision+architectures;💡+Contributing+to+open-source+AI+projects" />
+  
 </div>
 
-<br>
+<!-- Organic Footer Wave -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+  <path fill="#C084FC" fill-opacity="0.15" d="M0,224L48,208C96,192,192,160,288,165.3C384,171,480,213,576,224C672,235,768,213,864,197.3C960,181,1056,171,1152,176C1248,181,1344,203,1392,213.3L1440,224L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path>
+</svg>
 
-<!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:4A90E2,100:6C63FF&height=130&section=footer&animation=twinkling" width="100%" />
+  <p style="color: #A78BFA; font-family: 'Space Grotesk', sans-serif;">
+    ✨ Made with passion, precision, and lots of ☕<br>
+    <span style="color: #718096; font-size: 14px;">Thanks for stopping by! Let's build something amazing together.</span>
+  </p>
 </div>
