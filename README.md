@@ -40,7 +40,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=C084FC&center=true&vCenter=true&width=700&height=50&lines=Pakistan;💡+Data+Science+%7C+ML+%7C+CV+%7C+LLMs;🚀+Building+AI+that+understands+the+world;✨+Turning+data+into+magic" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=C084FC&center=true&vCenter=true&width=700&height=60&lines=💡+Data+Science+%7C+ML+%7C+CV+%7C+LLMs;🚀+Building+AI+that+understands+the+world;✨+Turning+data+into+magic" />
 
 <br><br>
 
