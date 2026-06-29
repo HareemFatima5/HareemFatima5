@@ -31,46 +31,80 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=📍+Islamabad%2C+Pakistan+%7C+Data+Science+Undergraduate;💡+Machine+Learning+%7C+Computer+Vision+%7C+LLMs;🎯+Building+AI+that+actually+understands+the+world" />
+<!-- Animated emoji rain effect -->
+<div style="display: flex; gap: 10px; justify-content: center; margin: 10px 0;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="28" height="28" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="28" height="28" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="28" height="28" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Crystal%20Ball.png" width="28" height="28" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" width="28" height="28" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" width="28" height="28" />
+</div>
 
-<br>
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=800&color=C084FC&center=true&vCenter=true&width=700&height=50&lines=📍+Islamabad%2C+Pakistan;💡+Data+Science+%7C+ML+%7C+CV+%7C+LLMs;🚀+Building+AI+that+understands+the+world;✨+Turning+data+into+magic" />
 
-<table border="0">
-<tr>
-<td align="center">
+<br><br>
 
-```
-╭─────────────────────────────────────────╮
-│                                         │
-│   🧬  Identity    →  Data Magician      │
-│                                         │
-│   ❤️  Passions    →  CV · LLMs · GenAI  │
-│                                         │
-│   🎯  Mission     →  AI for real impact │
-│                                         │
-│   ✨  Superpower  →  Complex ML, simple │
-│                                         │
-│   ☕  Fuel        →  Coffee + Curiosity │
-│                                         │
-╰─────────────────────────────────────────╯
-```
+<!-- Floating animated cards -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-</td>
-<td align="center" width="45%">
+<div style="background: linear-gradient(135deg, #1a1a2e, #0A0A0A); padding: 20px 30px; border-radius: 16px; border: 1px solid #C084FC30; box-shadow: 0 0 30px #C084FC10;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="30" height="30" />
+  <span style="color: #C084FC; margin-left: 8px;">🧬</span>
+  <span style="color: #FFFFFF;">Identity</span>
+  <span style="color: #A78BFA; margin-left: 8px;">→ Data Magician</span>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HareemFatima5&bg_color=0D1117&color=6C63FF&line=4A90E2&point=6C63FF&area=true&hide_border=true&area_color=6C63FF" width="100%" />
+<div style="background: linear-gradient(135deg, #1a1a2e, #0A0A0A); padding: 20px 30px; border-radius: 16px; border: 1px solid #C084FC30; box-shadow: 0 0 30px #C084FC10;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="30" height="30" />
+  <span style="color: #FFFFFF;">Passions</span>
+  <span style="color: #A78BFA; margin-left: 8px;">→ CV · LLMs · GenAI</span>
+</div>
 
-</td>
-</tr>
-</table>
+<div style="background: linear-gradient(135deg, #1a1a2e, #0A0A0A); padding: 20px 30px; border-radius: 16px; border: 1px solid #C084FC30; box-shadow: 0 0 30px #C084FC10;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Dart.png" width="30" height="30" />
+  <span style="color: #FFFFFF;">Mission</span>
+  <span style="color: #A78BFA; margin-left: 8px;">→ AI for real impact</span>
+</div>
 
 </div>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+<div style="background: linear-gradient(135deg, #1a1a2e, #0A0A0A); padding: 20px 30px; border-radius: 16px; border: 1px solid #C084FC30; box-shadow: 0 0 30px #C084FC10;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="30" height="30" />
+  <span style="color: #FFFFFF;">Superpower</span>
+  <span style="color: #A78BFA; margin-left: 8px;">→ Complex ML, simple</span>
+</div>
+
+<div style="background: linear-gradient(135deg, #1a1a2e, #0A0A0A); padding: 20px 30px; border-radius: 16px; border: 1px solid #C084FC30; box-shadow: 0 0 30px #C084FC10;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="30" height="30" />
+  <span style="color: #FFFFFF;">Fuel</span>
+  <span style="color: #A78BFA; margin-left: 8px;">→ Coffee + Curiosity</span>
+</div>
+
+<div style="background: linear-gradient(135deg, #1a1a2e, #0A0A0A); padding: 20px 30px; border-radius: 16px; border: 1px solid #C084FC30; box-shadow: 0 0 30px #C084FC10;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30" height="30" />
+  <span style="color: #FFFFFF;">Vibe</span>
+  <span style="color: #A78BFA; margin-left: 8px;">→ Code. Create. Conquer.</span>
+</div>
+
+</div>
 
 <br>
+
+<!-- Animated activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HareemFatima5&bg_color=0D1117&color=C084FC&line=A78BFA&point=C084FC&area=true&hide_border=true&area_color=C084FC20" width="90%" />
+
+<br>
+
+<!-- Floating animated typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=25&lines=✨+Turning+data+into+stories%2C+one+algorithm+at+a+time;🚀+Building+the+future%2C+one+commit+at+a+time;💡+Always+curious%2C+always+learning" />
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -189,13 +223,9 @@
 
 <br>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HareemFatima5&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=4A90E2&text_color=c9d1d9&ring_color=6C63FF" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HareemFatima5&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" width="48%" />
 
 <br><br>
 
@@ -220,7 +250,7 @@
 
 <br>
 
-## 🎯 Current Focus
+## Current Focus
 <div align="center">
 <br>
 <table>
@@ -266,8 +296,13 @@
 </svg>
 
 <div align="center">
-  <p style="color: #A78BFA; font-family: 'Space Grotesk', sans-serif;">
-    ✨ Made with passion, precision, and lots of ☕<br>
-    <span style="color: #718096; font-size: 14px;">Thanks for stopping by! Let's build something amazing together.</span>
-  </p>
+  
+  ### 🌟 Made with ❤️ and ☕
+  
+  <i>Let's connect and build something amazing together!</i>
+  
+  <br><br>
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+  
 </div>
