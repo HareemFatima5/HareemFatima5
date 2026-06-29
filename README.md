@@ -1,116 +1,128 @@
 <div align="center">
   
-  <!-- Animated Gradient Name -->
+  <!-- ANIMATED NAME WITH GLOW EFFECT -->
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&duration=2000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=600&height=70&lines=HAREEM+FATIMA" />
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=45&duration=1&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=false&width=600&height=70&lines=✨+Hareem+Fatima+✨" alt="Hareem Fatima" />
   </h1>
   
-  <!-- Animated Subtitle with Cursor -->
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&pause=800&color=C084FC&center=true&vCenter=true&width=800&height=60&lines=Data+Science+%7C+NUST+SEECS;Machine+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+LLMs;Turning+data+into+insights+%E2%80%A2+One+model+at+a+time" />
+  <!-- PROFESSIONAL TYPING ANIMATION -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=800&color=4A90E2&center=true&vCenter=true&width=700&height=60&lines=✦+Data+Alchemist+✦;✦+ML+Enthusiast+✦;✦+CV+Explorer+✦;✦+LLM+Builder+✦" alt="Typing Animation" />
   
-  <!-- Modern Animated Wave (SVG) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+</div>
+
+<br>
+
+<!-- MODERN DIVIDER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<br>
+
+<!-- SOCIAL BADGES WITH GLOW -->
+<div align="center">
   
-  <!-- Social Badges with Glass Effect -->
-  <br><br>
   <a href="https://www.linkedin.com/in/hareem-fatima-b421222a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=C084FC&labelColor=0A0A0A&border_radius=8" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/HareemFatima5">
-    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=C084FC&labelColor=0A0A0A&border_radius=8" />
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="mailto:hareem.fatima@example.com">
-    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=C084FC&labelColor=0A0A0A&border_radius=8" />
+  <a href="https://github.com/hareemfatima">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   
 </div>
 
 <br>
 
-<!-- Organic Wave Divider -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-  <path fill="#C084FC" fill-opacity="0.15" d="M0,96L48,112C96,128,192,160,288,186.7C384,213,480,235,576,213.3C672,192,768,128,864,117.3C960,107,1056,149,1152,165.3C1248,181,1344,171,1392,165.3L1440,160L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
-</svg>
+<!-- ANIMATED HEADER WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header&text=✨&fontSize=30" width="100%" />
+</div>
 
 <br>
 
-## ⚡ Animated Terminal — About Me
+## 💫 About Me
 
 <div align="center">
   
-  <!-- Animated Terminal Box -->
-  <div style="background: #0A0A0A; border: 1px solid #C084FC; border-radius: 12px; padding: 20px; max-width: 800px; margin: 0 auto; box-shadow: 0 0 30px rgba(192, 132, 252, 0.1);">
-    <div style="display: flex; gap: 8px; margin-bottom: 12px;">
-      <span style="width: 12px; height: 12px; background: #ff5f56; border-radius: 50%; display: inline-block;"></span>
-      <span style="width: 12px; height: 12px; background: #ffbd2e; border-radius: 50%; display: inline-block;"></span>
-      <span style="width: 12px; height: 12px; background: #27c93f; border-radius: 50%; display: inline-block;"></span>
-      <span style="color: #C084FC; font-family: 'Courier New', monospace; font-size: 12px; margin-left: 10px;">~/hareem/about</span>
-    </div>
-    
-    <!-- Typing Animation Inside Terminal -->
-    <div style="font-family: 'Courier New', monospace; color: #A78BFA; text-align: left; padding: 10px;">
-      <span style="color: #C084FC;">$</span> <span style="color: #FFFFFF;">whoami</span><br>
-      <span style="color: #A78BFA;">➜</span> <span style="color: #E2E8F0;">Hareem Fatima</span><br><br>
-      
-      <span style="color: #C084FC;">$</span> <span style="color: #FFFFFF;">cat about.txt</span><br>
-      <span style="color: #A78BFA;">➜</span> <span style="color: #E2E8F0;">BS Data Science @ NUST SEECS ('27)</span><br>
-      <span style="color: #A78BFA;">➜</span> <span style="color: #E2E8F0;">ViT-based Plant Disease Detection — IBCAST 2026</span><br>
-      <span style="color: #A78BFA;">➜</span> <span style="color: #E2E8F0;">ML Modeling · Computer Vision · LLM Pipelines</span><br><br>
-      
-      <span style="color: #C084FC;">$</span> <span style="color: #FFFFFF;">python3 -c "print('✨ Passionate about building AI that matters')"</span><br>
-      <span style="color: #A78BFA;">➜</span> <span style="color: #E2E8F0;">✨ Passionate about building AI that matters</span><br><br>
-      
-      <span style="color: #C084FC;">$</span> <span style="color: #FFFFFF;">_</span>
-    </div>
-  </div>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" alt="Coding" />
+  
+  <br><br>
+  
+  <table>
+    <tr>
+      <td>
+        <strong>🌟 Identity:</strong> Data Magician & ML Explorer
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>💡 Passions:</strong> Computer Vision · LLMs · Data Engineering · MLOps
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>🚀 Current Mission:</strong> Building AI that understands the world
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>📖 Motto:</strong> Turning data into stories, one algorithm at a time
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>⚡ Superpower:</strong> Making complex ML look simple
+      </td>
+    </tr>
+  </table>
   
 </div>
 
 <br>
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🧠 Artificial Intelligence & Machine Learning
-<img src="https://img.shields.io/badge/PyTorch-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Scikit--Learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/XGBoost-0A0A0A?style=for-the-badge&logo=xgboost&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/CNN%20%2F%20ViT-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/TIMM-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=C084FC" />
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🤖 LLMs & Generative AI
-<img src="https://img.shields.io/badge/Gemini%20API-0A0A0A?style=for-the-badge&logo=google&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-0A0A0A?style=for-the-badge&logo=openai&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Generative%20AI-0A0A0A?style=for-the-badge&logo=huggingface&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=C084FC" />
+### 🧠 AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### 📊 Data Science & Analytics
-<img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/EDA-0A0A0A?style=for-the-badge&logo=python&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Scipy-0A0A0A?style=for-the-badge&logo=scipy&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/PySpark-0A0A0A?style=for-the-badge&logo=apachespark&logoColor=C084FC" />
+### 🛠️ Tools & Frameworks
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### 🎨 Visualization & Databases
-<img src="https://img.shields.io/badge/Power%20BI-0A0A0A?style=for-the-badge&logo=powerbi&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Tableau-0A0A0A?style=for-the-badge&logo=tableau&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=C084FC" />
+### 📊 Data Stack
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 💻 Languages & Frameworks
-<img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/R-0A0A0A?style=for-the-badge&logo=r&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Flask-0A0A0A?style=for-the-badge&logo=flask&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Streamlit-0A0A0A?style=for-the-badge&logo=streamlit&logoColor=C084FC" />
+</div>
 
+<br>
+
+<!-- GLOWING DIVIDER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
 </div>
 
 <br>
@@ -118,74 +130,107 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%" style="background: #0A0A0A; border: 1px solid #C084FC33; border-radius: 12px; padding: 20px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="60" height="60" /><br>
-        <b style="color: #C084FC; font-size: 18px;">🌿 Plant Health AI</b><br>
-        <sub style="color: #A78BFA;">ViT-B/16 model for 52 plant diseases with XAI heatmaps & severity estimation. Presented at IBCAST 2026.</sub><br><br>
-        <sub style="color: #718096;"><i>PyTorch · timm · Streamlit</i></sub>
-      </td>
-      <td align="center" width="33%" style="background: #0A0A0A; border: 1px solid #C084FC33; border-radius: 12px; padding: 20px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" width="60" height="60" /><br>
-        <b style="color: #C084FC; font-size: 18px;">🔍 TALASH AI</b><br>
-        <sub style="color: #A78BFA;">AI-powered faculty recruitment pipeline using Gemini LLM for CV extraction and live journal verification.</sub><br><br>
-        <sub style="color: #718096;"><i>Flask · Gemini · SQLite</i></sub>
-      </td>
-      <td align="center" width="33%" style="background: #0A0A0A; border: 1px solid #C084FC33; border-radius: 12px; padding: 20px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="60" height="60" /><br>
-        <b style="color: #C084FC; font-size: 18px;">📊 Yelp Insights</b><br>
-        <sub style="color: #A78BFA;">End-to-end Medallion architecture data pipeline with ML-driven business insights and Streamlit dashboard.</sub><br><br>
-        <sub style="color: #718096;"><i>PySpark · Scikit-Learn</i></sub>
-      </td>
-    </tr>
-  </table>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🌿 Plant Health AI</h3>
+      <p>ViT-B/16 model detecting diseases in 52 plant classes with explainable AI heatmaps & severity scoring</p>
+      <p><strong>PyTorch · Streamlit · HuggingFace</strong></p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>🔍 TALASH AI</h3>
+      <p>Smart faculty recruitment using LLMs + live journal verification APIs for academic hiring</p>
+      <p><strong>Flask · Gemini · SQLite · OpenAlex</strong></p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>📈 Yelp Insights</h3>
+      <p>End-to-end analytics pipeline with Medallion architecture & interactive ML dashboard</p>
+      <p><strong>PySpark · Streamlit · Scikit-Learn</strong></p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br>
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HareemFatima5&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=C084FC&icon_color=A78BFA&text_color=FFFFFF&ring_color=C084FC&include_all_commits=true&count_private=true&border_radius=12" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HareemFatima5&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=C084FC&text_color=FFFFFF&border_radius=12" width="49%" />
   
-  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=hareemfatima&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=4A90E2&text_color=c9d1d9&ring_color=6C63FF" width="49%" />
   
-  <!-- Contribution Snake Animation (Fully Fixed) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hareemfatima&layout=compact&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" width="49%" />
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hareemfatima&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=4A90E2&currStreakLabel=6C63FF" width="49%" />
+  
+</div>
+
+<br>
+
+<!-- CONTRIBUTION SNAKE ANIMATION -->
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-  
-  <br>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=18&pause=800&color=C084FC&center=true&vCenter=true&width=700&lines=Building+the+future%2C+one+commit+at+a+time;Powered+by+coffee+and+curiosity;Dreaming+in+Python+%26+PyTorch;Always+learning%2C+always+creating" />
-  
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=HareemFatima5&style=for-the-badge&color=C084FC&label=VISITORS&abbreviated=true" />
 </div>
 
 <br>
 
-## 🎯 Current Focus
+## 💭 Quotes & Inspiration
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+
+</div>
+
+<br>
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=🔭+Building+production-grade+ML+systems;🌱+Exploring+advanced+computer+vision+architectures;💡+Contributing+to+open-source+AI+projects;🎯+Preparing+for+grad+school+in+ML" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=✨+Building+the+future%2C+one+commit+at+a+time+✨;☕+Powered+by+coffee+and+curiosity+☕;🚀+Dreaming+in+Python+and+PyTorch+🚀;💡+Always+learning%2C+always+creating+💡" />
   
 </div>
 
-<!-- Organic Footer Wave -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-  <path fill="#C084FC" fill-opacity="0.15" d="M0,224L48,208C96,192,192,160,288,165.3C384,171,480,213,576,224C672,235,768,213,864,197.3C960,181,1056,171,1152,176C1248,181,1344,203,1392,213.3L1440,224L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path>
-</svg>
+<br>
+
+<!-- VISITOR COUNTER -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hareemfatima&style=for-the-badge&color=6C63FF&label=✨+Visitors+✨" />
+</div>
+
+<br>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" />
 
 <div align="center">
-  <p style="color: #A78BFA; font-family: 'Space Grotesk', sans-serif;">
-    ✨ Made with passion, precision, and lots of ☕<br>
-    <span style="color: #718096; font-size: 14px;">Thanks for stopping by! Let's build something amazing together.</span>
-  </p>
+  
+  ### 🌟 Made with 💻 and ☕
+  
+  <i>Let's connect and build something amazing together!</i>
+  
+  <br><br>
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+  
 </div>
