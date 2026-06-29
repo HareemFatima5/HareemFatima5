@@ -158,7 +158,7 @@
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 <br><br>
-<a href="https://github.com/HareemFatima5">
+<a href="https://github.com/HareemFatima5/ViT-Based-Smart-Plant-Health-Monitoring-System">
   <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br><br>
@@ -174,7 +174,7 @@
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <br><br>
-<a href="https://github.com/HareemFatima5">
+<a href="https://github.com/HareemFatima5/Talash">
   <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br><br>
@@ -190,7 +190,7 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 <br><br>
-<a href="https://github.com/HareemFatima5">
+<a href="https://github.com/HareemFatima5/Educational-Data-Mining-for-Student-Performance-Prediction">
   <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br><br>
